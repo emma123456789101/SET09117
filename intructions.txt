@@ -1,0 +1,7 @@
+here you will find instructions on how to play the sudoku game that has been created
+
+1. you must first say how many clues you would like <=20 is hard,>=20 is medium and >=30 is easy.
+2. a statement will be printed of what level of difficulty you have chose,this allows the user to easily identify if they have chose the right numbers of clues
+3. the inital board of the difficulty level will be chosen
+4. then it will ask you to fill in values this includes the values that are on the itial board
+5. once that is completed the board will be reprinted will all the new values
